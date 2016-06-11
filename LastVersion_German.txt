@@ -1,0 +1,4 @@
+[general] 
+2 version    = "v6.1.2" 
+3 messagenew = "Funktioniet vollständig mit Mai-Update\nNeues GUI und vile neue Funktionen\nFür weiters Informationen, siehe \nhttps://mybot.run\n\n Immer kostenlosund Open Source." 
+4 messageold = "Eine neue Version von MyBot (v6.1.2) ist verfügbar!\nBitte lade die neueste Version von:\nhttps://mybot.run" 
